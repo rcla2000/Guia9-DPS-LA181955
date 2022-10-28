@@ -9,5 +9,5 @@ Cuando se inicie el servidor presione la tecla **a** para visualizar la aplicaci
 ### Usuario para el acceso a la aplicación
 
 Las credenciales son:  
-Usuario: karens  
-Contraseña: 123456
+**Usuario:** karens  
+**Contraseña:** 123456
