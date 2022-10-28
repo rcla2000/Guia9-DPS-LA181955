@@ -9,5 +9,5 @@ Presione la tecla **a** para visualizar la aplicación en su dispositivo Android
 ### Usuario para el acceso a la aplicación
 
 Las credenciales son:  
--- Usuario: karens
--- Contraseña: 123456
+. Usuario: karens
+. Contraseña: 123456
